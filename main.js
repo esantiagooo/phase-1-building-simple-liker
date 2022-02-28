@@ -3,6 +3,13 @@ const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
+const modal = document.getElementById("modal").style.visibility = 'hidden'
+console.log("modal")
+document.querySelector('DOMContentLoaded', ()=>{
+  const span = document.querySelector('.like-glyph')
+
+})
+
 
 
 
